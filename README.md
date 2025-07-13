@@ -54,7 +54,7 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 🏆 Achievements & Metrics
 
-- 🌟 **10+ years** in IT architecture and cloud computing
+- 🌟 **20+ years** in IT architecture and cloud computing
 - ☁️ **50+ AWS projects** deployed in production
 - 🚀 **Migrated 15+ legacy systems** to cloud-native architectures
 - 🎯 **99.9% uptime** maintained across client infrastructures
