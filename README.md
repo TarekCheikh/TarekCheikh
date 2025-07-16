@@ -83,10 +83,10 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📝 Recent Articles
 
-- 🔐 [Stop Reinventing Authentication: How I Built a Production-Ready Auth API That Scales to 50K Users for Free](https://aws.plainenglish.io/stop-reinventing-authentication-how-i-built-a-production-ready-auth-api-that-scales-to-50k-users-912981176461)
-- 💾 [The $10 Billion Mistake That Revolutionized Computing Forever (And Why Your USB Drive Is Now a Museum Piece)](https://aws.plainenglish.io/the-10-billion-mistake-that-revolutionized-computing-forever-and-why-your-usb-drive-is-now-a-e1bf33997ffe)
-- 🚀 [Building a Production-Ready Serverless File Sharing Platform on AWS](https://aws.plainenglish.io/building-a-production-ready-serverless-file-sharing-platform-on-aws-d3ae0faa8e9e)
-- 📚 [Mastering AWS SAM for Python Lambda: The Ultimate Hands-On Guide](https://tarekcheikh.medium.com/mastering-aws-sam-for-python-lambda-the-ultimate-hands-on-guide-16754e98eaba)
+- 🔐 [Stop Reinventing Authentication: How I Built a Production-Ready Auth API That Scales to 50K Users for Free](https://medium.com/aws-in-plain-english/stop-reinventing-authentication-how-i-built-a-production-ready-auth-api-that-scales-to-50k-users-912981176461)
+- 💾 [The $10 Billion Mistake That Revolutionized Computing Forever (And Why Your USB Drive Is Now a Museum Piece)](https://medium.com/aws-in-plain-english/the-10-billion-mistake-that-revolutionized-computing-forever-and-why-your-usb-drive-is-now-a-e1bf33997ffe)
+- 🚀 [Building a Production-Ready Serverless File Sharing Platform on AWS](https://medium.com/aws-in-plain-english/building-a-production-ready-serverless-file-sharing-platform-on-aws-d3ae0faa8e9e)
+- 📚 [Mastering AWS SAM for Python Lambda: The Ultimate Hands-On Guide](https://medium.com/aws-in-plain-english/mastering-aws-sam-for-python-lambda-the-ultimate-hands-on-guide-16754e98eaba)
 
 ---
 
