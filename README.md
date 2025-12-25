@@ -18,17 +18,17 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 - 🛠️ Build automation pipelines and serverless apps
 - 🧪 Experiment and publish open source AWS + Terraform projects
 - 🎙️ Speaker at AWS Summit and other tech conferences
-- 🧑‍💼 Founder of [Cloudinit](https://cloudinit.fr) — a cloud consulting company
+- 🧑‍💼 Founder of [Toc Consulting](https://tocconsulting.fr) — a cloud consulting company
 
 ---
 
 ## 📌 Featured Projects
 
-- [`cognito-api`](https://github.com/CloudinitFrance/cognito-api): Secure user authentication system using Cognito + Terraform  
+- [`cognito-api`](https://github.com/TocConsulting/cognito-api): Secure user authentication system using Cognito + Terraform
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-- [`fileshare-serverless`](https://github.com/CloudinitFrance/small-file-sharing): File sharing app with AWS Lambda + S3  
+- [`fileshare-serverless`](https://github.com/TocConsulting/small-file-sharing): File sharing app with AWS Lambda + S3
   ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white) ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-- [`aws-helper-scripts`](https://github.com/CloudinitFrance/aws-helper-scripts): Comprehensive AWS Security & Cost Optimization Toolkit
+- [`aws-helper-scripts`](https://github.com/TocConsulting/aws-helper-scripts): Comprehensive AWS Security & Cost Optimization Toolkit
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
@@ -93,7 +93,7 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📫 Let’s Connect
 
-- 🌐 [cloudinit.fr](https://cloudinit.fr)
-- 📧 tarek@cloudinit.fr
+- 🌐 [tocconsulting.fr](https://tocconsulting.fr)
+- 📧 tarek@tocconsulting.fr
 - 💼 [LinkedIn](https://fr.linkedin.com/in/tarekouldcheikh)
 
