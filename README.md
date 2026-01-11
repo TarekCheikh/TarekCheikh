@@ -24,6 +24,8 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📌 Featured Projects
 
+- [`s3-security-scanner`](https://github.com/TocConsulting/s3-security-scanner): Comprehensive AWS S3 security scanner with compliance mapping for CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR
+  [![PyPI version](https://img.shields.io/pypi/v/s3-security-scanner.svg)](https://pypi.org/project/s3-security-scanner/) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 - [`cognito-api`](https://github.com/TocConsulting/cognito-api): Secure user authentication system using Cognito + Terraform
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 - [`fileshare-serverless`](https://github.com/TocConsulting/small-file-sharing): File sharing app with AWS Lambda + S3
@@ -42,12 +44,7 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekCheikh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TarekCheikh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekCheikh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
