@@ -90,9 +90,10 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 - 🌐 [tocconsulting.fr](https://tocconsulting.fr)
 - 📧 tarek@tocconsulting.fr
 - 💼 [LinkedIn](https://fr.linkedin.com/in/tarekouldcheikh)
+- 🎙️ [My Podcast with Sebastien Stormacq](https://www.youtube.com/watch?v=pNkPvoDeVq4)
 
