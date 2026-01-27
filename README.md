@@ -24,6 +24,8 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📌 Featured Projects
 
+- [`cryptex-cli`](https://github.com/TocConsulting/cryptex): Enterprise-grade CLI password generator with AWS Secrets Manager, HashiCorp Vault, and OS Keychain integrations
+  [![PyPI version](https://img.shields.io/pypi/v/cryptex-cli.svg)](https://pypi.org/project/cryptex-cli/) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security-00A86B?style=flat&logo=springsecurity&logoColor=white)
 - [`s3-security-scanner`](https://github.com/TocConsulting/s3-security-scanner): Comprehensive AWS S3 security scanner with compliance mapping for CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR
   [![PyPI version](https://img.shields.io/pypi/v/s3-security-scanner.svg)](https://pypi.org/project/s3-security-scanner/) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 - [`iam-activity-tracker`](https://github.com/TocConsulting/iam-activity-tracker): Serverless AWS IAM activity monitoring with real-time alerts and CloudTrail analytics
@@ -82,11 +84,12 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📝 Recent Articles
 
-- 🔐 [Stop Reinventing Authentication: How I Built a Production-Ready Auth API That Scales to 50K Users for Free](https://medium.com/aws-in-plain-english/stop-reinventing-authentication-how-i-built-a-production-ready-auth-api-that-scales-to-50k-users-912981176461)
-- 💾 [The $10 Billion Mistake That Revolutionized Computing Forever (And Why Your USB Drive Is Now a Museum Piece)](https://medium.com/aws-in-plain-english/the-10-billion-mistake-that-revolutionized-computing-forever-and-why-your-usb-drive-is-now-a-e1bf33997ffe)
-- 🚀 [Building a Production-Ready Serverless File Sharing Platform on AWS](https://medium.com/aws-in-plain-english/building-a-production-ready-serverless-file-sharing-platform-on-aws-d3ae0faa8e9e)
-- 📚 [Mastering AWS SAM for Python Lambda: The Ultimate Hands-On Guide](https://medium.com/aws-in-plain-english/mastering-aws-sam-for-python-lambda-the-ultimate-hands-on-guide-16754e98eaba)
-- ☁️ [How Netflix Serves 300+ Million Users Without Owning a Single Server](https://medium.com/aws-in-plain-english/how-netflix-serves-300-million-users-without-owning-a-single-server-b2c31d0190cb)
+- 🔑 [Cryptex — Because openssl rand -base64 32 Gets Old Fast](https://tarekcheikh.medium.com/cryptex-because-openssl-rand-base64-32-gets-old-fast-d9f1200c5a12)
+- 🌐 [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://tarekcheikh.medium.com/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-4dd8d8d67b90)
+- 🔍 [The Anatomy of S3 Security: 22 Checks That Stand Between You and a Data Breach](https://tarekcheikh.medium.com/the-anatomy-of-s3-security-22-checks-that-stand-between-you-and-a-data-breach-738f075a1771)
+- 🛠️ [Building an S3 Security Scanner: From Frustration to Open Source](https://tarekcheikh.medium.com/building-an-s3-security-scanner-from-frustration-to-open-source-59db9167b829)
+- 🔧 [Fixing S3 Security Issues: A Practical Remediation Guide](https://medium.com/aws-in-plain-english/fixing-s3-security-issues-a-practical-remediation-guide-203088323b4d)
+- 👁️ [I Built a Free AWS IAM Activity Tracker Because CloudTrail Alone Isn't Enough](https://aws.plainenglish.io/i-built-a-free-aws-iam-activity-tracker-because-cloudtrail-alone-isnt-enough-a9e81fd762f2)
 
 ---
 
