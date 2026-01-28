@@ -48,11 +48,7 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekCheikh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=TarekCheikh&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekCheikh&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
