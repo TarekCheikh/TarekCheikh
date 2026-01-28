@@ -2,7 +2,7 @@
 
 🎯 **IT Architect | AWS Security Expert | Open Source Builder**
 
-I'm an IT nerd from Paris 🇫🇷with deep roots in low-level development and cloud architecture. My journey started in the world of **C programming on Linux**, building telco and media systems, and working on **32-bit to 64-bit architecture migrations**.
+I'm an IT nerd from Paris 🇫🇷 with deep roots in low-level development and cloud architecture. My journey started in the world of **C programming on Linux**, building telco and media systems, and working on **32-bit to 64-bit architecture migrations**.
 
 Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 - 🔐 Cloud security
@@ -48,7 +48,11 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekCheikh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=TarekCheikh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekCheikh&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
