@@ -95,8 +95,9 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📫 Let's Connect
 
-- 🌐 [tocconsulting.fr](https://tocconsulting.fr)
-- 📧 tarek@tocconsulting.fr
-- 💼 [LinkedIn](https://fr.linkedin.com/in/tarekouldcheikh)
-- 🎙️ [My Podcast with Sebastien Stormacq](https://www.youtube.com/watch?v=pNkPvoDeVq4)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tocconsulting.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/tarekouldcheikh)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tarekcheikh.medium.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarek@tocconsulting.fr)
+[![AWS Podcast](https://img.shields.io/badge/AWS%20Podcast-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.youtube.com/watch?v=pNkPvoDeVq4)
 
