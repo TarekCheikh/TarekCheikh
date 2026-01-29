@@ -66,9 +66,12 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 🎓 Certifications
 
-- ☁️ AWS Certified Solutions Architect - Associate
-- 👨‍💻 AWS Certified Developer - Associate
-- ⚙️ AWS Certified SysOps Administrator - Associate
+<p>
+  <a href="https://www.credly.com/badges/e9e071ea-96d2-404c-a529-b14d0b9aeb55"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="120"/></a>
+  <a href="https://www.credly.com/badges/bad6ee33-dc0f-489d-84c5-cd6e5f09ff8f"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate" width="120"/></a>
+  <a href="https://www.credly.com/badges/80fd446f-7788-4cf4-a584-12f2941bb843"><img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS SysOps Administrator Associate" width="120"/></a>
+</p>
+
 - 🌐 Cisco CCNA Certified
 
 ---
