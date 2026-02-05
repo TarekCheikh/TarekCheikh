@@ -24,6 +24,8 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📌 Featured Projects
 
+- [`awsmap`](https://github.com/TocConsulting/awsmap): Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions
+  [![PyPI version](https://img.shields.io/pypi/v/awsmap.svg)](https://pypi.org/project/awsmap/) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 - [`cryptex-cli`](https://github.com/TocConsulting/cryptex): Enterprise-grade CLI password generator with AWS Secrets Manager, HashiCorp Vault, and OS Keychain integrations
   [![PyPI version](https://img.shields.io/pypi/v/cryptex-cli.svg)](https://pypi.org/project/cryptex-cli/) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security-00A86B?style=flat&logo=springsecurity&logoColor=white)
 - [`s3-security-scanner`](https://github.com/TocConsulting/s3-security-scanner): Comprehensive AWS S3 security scanner with compliance mapping for CIS, PCI-DSS, HIPAA, SOC 2, ISO & GDPR
@@ -87,12 +89,12 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📝 Recent Articles
 
-- 🔑 [Cryptex — Because openssl rand -base64 32 Gets Old Fast](https://tarekcheikh.medium.com/cryptex-because-openssl-rand-base64-32-gets-old-fast-d9f1200c5a12)
-- 🌐 [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://tarekcheikh.medium.com/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-4dd8d8d67b90)
-- 🔍 [The Anatomy of S3 Security: 22 Checks That Stand Between You and a Data Breach](https://tarekcheikh.medium.com/the-anatomy-of-s3-security-22-checks-that-stand-between-you-and-a-data-breach-738f075a1771)
-- 🛠️ [Building an S3 Security Scanner: From Frustration to Open Source](https://tarekcheikh.medium.com/building-an-s3-security-scanner-from-frustration-to-open-source-59db9167b829)
-- 🔧 [Fixing S3 Security Issues: A Practical Remediation Guide](https://medium.com/aws-in-plain-english/fixing-s3-security-issues-a-practical-remediation-guide-203088323b4d)
-- 👁️ [I Built a Free AWS IAM Activity Tracker Because CloudTrail Alone Isn't Enough](https://aws.plainenglish.io/i-built-a-free-aws-iam-activity-tracker-because-cloudtrail-alone-isnt-enough-a9e81fd762f2)
+- 🗺️ [awsmap, Find Everything Running in Your AWS Account](https://aws.plainenglish.io/awsmap-find-everything-running-in-your-aws-account-3294c5326baa)
+- 🔐 [Episode 5: Load Balancer Security Auditor — SSL, Protocols, and Public Exposure](https://aws.plainenglish.io/episode-5-load-balancer-security-auditor-ssl-protocols-and-public-exposure-b7f97c4bee1c)
+- 🔑 [Cryptex — Because openssl rand -base64 32 Gets Old Fast](https://aws.plainenglish.io/cryptex-because-openssl-rand-base64-32-gets-old-fast-d9f1200c5a12)
+- 🌐 [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://aws.plainenglish.io/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-4dd8d8d67b90)
+- 🔍 [The Anatomy of S3 Security: 22 Checks That Stand Between You and a Data Breach](https://aws.plainenglish.io/the-anatomy-of-s3-security-22-checks-that-stand-between-you-and-a-data-breach-738f075a1771)
+- 🛠️ [Building an S3 Security Scanner: From Frustration to Open Source](https://aws.plainenglish.io/building-an-s3-security-scanner-from-frustration-to-open-source-59db9167b829)
 
 ---
 
@@ -101,6 +103,7 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tocconsulting.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/tarekouldcheikh)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tarekcheikh.medium.com)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/tarekcheikh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarek@tocconsulting.fr)
 [![AWS Podcast](https://img.shields.io/badge/AWS%20Podcast-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.youtube.com/watch?v=pNkPvoDeVq4)
 
