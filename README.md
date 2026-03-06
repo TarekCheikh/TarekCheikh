@@ -95,12 +95,12 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📝 Recent Articles
 
+- 🏅 [I Just Became an AWS Community Builder ... And I Owe It to You](https://tarekcheikh.medium.com/i-just-became-an-aws-community-builder-and-i-owe-it-to-you-80e122f226d6)
+- 🧠 [awsmap v1.5.0: Your AWS Inventory Now Has a Brain](https://aws.plainenglish.io/awsmap-v1-5-0-your-aws-inventory-now-has-a-brain-2c253f9b23cd)
 - 🗺️ [awsmap, Find Everything Running in Your AWS Account](https://aws.plainenglish.io/awsmap-find-everything-running-in-your-aws-account-3294c5326baa)
 - 🔐 [Episode 5: Load Balancer Security Auditor — SSL, Protocols, and Public Exposure](https://aws.plainenglish.io/episode-5-load-balancer-security-auditor-ssl-protocols-and-public-exposure-b7f97c4bee1c)
 - 🔑 [Cryptex — Because openssl rand -base64 32 Gets Old Fast](https://aws.plainenglish.io/cryptex-because-openssl-rand-base64-32-gets-old-fast-d9f1200c5a12)
 - 🌐 [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://aws.plainenglish.io/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-4dd8d8d67b90)
-- 🔍 [The Anatomy of S3 Security: 22 Checks That Stand Between You and a Data Breach](https://aws.plainenglish.io/the-anatomy-of-s3-security-22-checks-that-stand-between-you-and-a-data-breach-738f075a1771)
-- 🛠️ [Building an S3 Security Scanner: From Frustration to Open Source](https://aws.plainenglish.io/building-an-s3-security-scanner-from-frustration-to-open-source-59db9167b829)
 
 ---
 
@@ -109,6 +109,7 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tocconsulting.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/tarekouldcheikh)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tarekcheikh.medium.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tarekcheikh)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/tarekcheikh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarek@tocconsulting.fr)
 [![AWS Podcast](https://img.shields.io/badge/AWS%20Podcast-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.youtube.com/watch?v=pNkPvoDeVq4)
