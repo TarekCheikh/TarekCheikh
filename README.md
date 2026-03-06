@@ -1,6 +1,10 @@
+<div align="center">
+  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="assets/cb-banner.png" alt="AWS Community Builder - Tarek Cheikh" width="100%"/></a>
+</div>
+
 # 👋 Hi there, I'm Tarek Cheikh
 
-🎯 **IT Architect | AWS Security Expert | Open Source Builder**
+🎯 **IT Architect | AWS Security Expert | Open Source Builder | AWS Community Builder**
 
 I'm an IT nerd from Paris 🇫🇷 with deep roots in low-level development and cloud architecture. My journey started in the world of **C programming on Linux**, building telco and media systems, and working on **32-bit to 64-bit architecture migrations**.
 
@@ -63,12 +67,14 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 - 🎯 **99.9% uptime** maintained across client infrastructures
 - 📚 **20+ technical articles** published on cloud security, Software programming and Linux
 - 🎤 **Speaker at tech conferences** including AWS Summit Paris
+- 🏅 **AWS Community Builder** — recognized by AWS for contributions to the community
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Recognition
 
 <p>
+  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="assets/aws-community-builder-badge.png" alt="AWS Community Builder" width="120"/></a>
   <a href="https://www.credly.com/badges/e9e071ea-96d2-404c-a529-b14d0b9aeb55"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="120"/></a>
   <a href="https://www.credly.com/badges/bad6ee33-dc0f-489d-84c5-cd6e5f09ff8f"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate" width="120"/></a>
   <a href="https://www.credly.com/badges/80fd446f-7788-4cf4-a584-12f2941bb843"><img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS SysOps Administrator Associate" width="120"/></a>
