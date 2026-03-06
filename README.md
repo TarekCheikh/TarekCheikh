@@ -95,7 +95,7 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📝 Recent Articles
 
-- 🏅 [I Just Became an AWS Community Builder ... And I Owe It to You](https://tarekcheikh.medium.com/i-just-became-an-aws-community-builder-and-i-owe-it-to-you-80e122f226d6)
+- 🏅 [I Just Became an AWS Community Builder ... And I Owe It to You](https://medium.com/aws-in-plain-english/i-just-became-an-aws-community-builder-and-i-owe-it-to-you-80e122f226d6)
 - 🧠 [awsmap v1.5.0: Your AWS Inventory Now Has a Brain](https://aws.plainenglish.io/awsmap-v1-5-0-your-aws-inventory-now-has-a-brain-2c253f9b23cd)
 - 🗺️ [awsmap, Find Everything Running in Your AWS Account](https://aws.plainenglish.io/awsmap-find-everything-running-in-your-aws-account-3294c5326baa)
 - 🔐 [Episode 5: Load Balancer Security Auditor — SSL, Protocols, and Public Exposure](https://aws.plainenglish.io/episode-5-load-balancer-security-auditor-ssl-protocols-and-public-exposure-b7f97c4bee1c)
