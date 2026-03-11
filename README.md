@@ -112,5 +112,6 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tarekcheikh)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/tarekcheikh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarek@tocconsulting.fr)
-[![AWS Podcast](https://img.shields.io/badge/AWS%20Podcast-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.youtube.com/watch?v=pNkPvoDeVq4)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TarekOnTheCloud)
+[![AWS Podcast](https://img.shields.io/badge/AWS%20Podcast-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.youtube.com/watch?v=8AA86acHIoQ)
 
