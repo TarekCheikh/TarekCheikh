@@ -40,6 +40,10 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 - [`fileshare-serverless`](https://github.com/TocConsulting/small-file-sharing): File sharing app with AWS Lambda + S3
   ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white) ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+- [`aws-security-cards`](https://github.com/TocConsulting/aws-security-cards): Free, comprehensive security reference guides for every major AWS service. Attack vectors, misconfigurations, CLI commands, and detection indicators
+  ![Security](https://img.shields.io/badge/Security-00A86B?style=flat&logo=springsecurity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+- [`litellm-supply-chain-attack-analysis`](https://github.com/TocConsulting/litellm-supply-chain-attack-analysis): Full analysis of the LiteLLM supply chain attack (March 24, 2026). Real compromised packages, decoded 3-stage malware, hands-on EC2 detonation lab with mitmproxy captures, and complete IOCs
+  ![Security](https://img.shields.io/badge/Security-00A86B?style=flat&logo=springsecurity&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 - [`aws-helper-scripts`](https://github.com/TocConsulting/aws-helper-scripts): Comprehensive AWS Security & Cost Optimization Toolkit
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -65,7 +69,7 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 - ☁️ **50+ AWS projects** deployed in production
 - 🚀 **Migrated 15+ legacy systems** to cloud-native architectures
 - 🎯 **99.9% uptime** maintained across client infrastructures
-- 📚 **20+ technical articles** published on cloud security, Software programming and Linux
+- 📚 **50+ technical articles** published on cloud security, Software programming and Linux
 - 🎤 **Speaker at tech conferences** including AWS Summit Paris
 - 🏅 **AWS Community Builder** — recognized by AWS for contributions to the community
 
@@ -95,6 +99,9 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📝 Recent Articles
 
+- 💀 [We Detonated the Real LiteLLM Malware on EC2: Here's What Happened](https://medium.com/aws-in-plain-english/we-detonated-the-real-litellm-malware-on-ec2-heres-what-happened-e937c77c26b7)
+- 🔗 [Anatomy of a Supply Chain Attack: How LiteLLM Was Weaponized in 6 Hours](https://medium.com/aws-in-plain-english/anatomy-of-a-supply-chain-attack-how-litellm-was-weaponized-in-6-hours-d5b8cdbde347)
+- 🃏 [AWS Security Cards: Free Offensive Security Reference for 60 AWS Services](https://medium.com/aws-in-plain-english/aws-security-cards-free-offensive-security-reference-for-60-aws-services-316c3d0719f5)
 - 🏅 [I Just Became an AWS Community Builder ... And I Owe It to You](https://medium.com/aws-in-plain-english/i-just-became-an-aws-community-builder-and-i-owe-it-to-you-80e122f226d6)
 - 🧠 [awsmap v1.5.0: Your AWS Inventory Now Has a Brain](https://aws.plainenglish.io/awsmap-v1-5-0-your-aws-inventory-now-has-a-brain-2c253f9b23cd)
 - 🗺️ [awsmap, Find Everything Running in Your AWS Account](https://aws.plainenglish.io/awsmap-find-everything-running-in-your-aws-account-3294c5326baa)
