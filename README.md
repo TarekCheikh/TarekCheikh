@@ -28,6 +28,8 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📌 Featured Projects
 
+- [`localemu`](https://github.com/localemu/localemu): A free, open-source AWS emulator. 132 services on localhost:4566, works with the AWS CLI, boto3, Terraform, CDK, and Pulumi. No account, no credentials, no internet required
+  [![PyPI version](https://img.shields.io/pypi/v/localemu.svg)](https://pypi.org/project/localemu/) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 - [`awsmap`](https://github.com/TocConsulting/awsmap): Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions
   [![PyPI version](https://img.shields.io/pypi/v/awsmap.svg)](https://pypi.org/project/awsmap/) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 - [`cryptex-cli`](https://github.com/TocConsulting/cryptex): Enterprise-grade CLI password generator with AWS Secrets Manager, HashiCorp Vault, and OS Keychain integrations
@@ -99,6 +101,8 @@ Since 2014, I've shifted my focus to the **AWS ecosystem**, specializing in:
 
 ## 📝 Recent Articles
 
+- 🧪 [Run real AWS Lambda on your laptop](https://tarekcheikh.medium.com/run-real-aws-lambda-on-your-laptop-8d624f68032a)
+- ☁️ [Meet LocalEmu, the free successor to LocalStack](https://tarekcheikh.medium.com/meet-localemu-the-free-successor-to-localstack-b9755ba6c91e)
 - 💀 [We Detonated the Real LiteLLM Malware on EC2: Here's What Happened](https://medium.com/aws-in-plain-english/we-detonated-the-real-litellm-malware-on-ec2-heres-what-happened-e937c77c26b7)
 - 🔗 [Anatomy of a Supply Chain Attack: How LiteLLM Was Weaponized in 6 Hours](https://medium.com/aws-in-plain-english/anatomy-of-a-supply-chain-attack-how-litellm-was-weaponized-in-6-hours-d5b8cdbde347)
 - 🃏 [AWS Security Cards: Free Offensive Security Reference for 60 AWS Services](https://medium.com/aws-in-plain-english/aws-security-cards-free-offensive-security-reference-for-60-aws-services-316c3d0719f5)
